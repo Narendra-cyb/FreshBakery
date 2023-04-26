@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="order_history">Order History</string>
+    <string name="logout">Logout</string>
+    <string name="navigation_drawer_open">OpenDrawer</string>
+    <string name="full_name">Full Name</string>
+    <string name="contact_no">Contact No</string>
+    <string name="update">update</string>
+    <string name="products">Products</string>
+    <string name="email_id">Email id</string>
+    <string name="vehicle">Vehicle</string>
+</resources>
